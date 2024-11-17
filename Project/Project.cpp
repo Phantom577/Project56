@@ -1,9 +1,9 @@
 ﻿
 #include <iostream>
-
 using namespace std;
 int main()
 {
-    cout << "dfg";
+    //коммент
+    cout << "fff";
 }
 
