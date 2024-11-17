@@ -3,7 +3,6 @@
 using namespace std;
 int main()
 {
-    //коммент
-    cout << "fff";
+    cout << "dfgdjdfndndgdggdsg хуй";
 }
 
