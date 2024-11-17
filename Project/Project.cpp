@@ -3,8 +3,7 @@
 using namespace std;
 int main()
 {
-    //коммент
-    cout << "fff";
-    cout << "";
+    cout << "dfg";
+    cout << "" << endl;
 }
 
