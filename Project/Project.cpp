@@ -5,5 +5,6 @@ int main()
 {
     //коммент
     cout << "fff";
+    cout << "";
 }
 
