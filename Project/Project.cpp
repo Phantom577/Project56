@@ -1,9 +1,10 @@
 ﻿
 #include <iostream>
+#include <string> 
 using namespace std;
-int main()
-{
-    cout << "dfgпаарпрарраааараа";
-    cout << "" << endl;
+
+void dragon_minigame() {
+    cout << "Вы поиграли с драконом" << endl;
+    
 }
 
